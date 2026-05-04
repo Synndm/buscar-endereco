@@ -42,9 +42,7 @@ O objetivo deste projeto foi aprender na prática:
 
 ## 📸 Preview
 
-```md
-![preview](./preview.png)
-```
+![Preview do projeto](./preview.png)
 
 ---
 
