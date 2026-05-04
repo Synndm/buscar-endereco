@@ -42,8 +42,6 @@ O objetivo deste projeto foi aprender na prática:
 
 ## 📸 Preview
 
-Adicione aqui uma imagem ou GIF do projeto.
-
 ```md
 ![preview](./preview.png)
 ```
